@@ -33,5 +33,5 @@ No arquivo exemplo.py é possivel encontrar os valores de entrada dos retangulos
 
 Ao rodar o aplicativo, ele irá gerar no final uma imagem com os retangulos preenchidos e numerados
 
-![Resultado](Capturar.PNG)
+![Resultado](https://ibb.co/WPYGsWg)
 
